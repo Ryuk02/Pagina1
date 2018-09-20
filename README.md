@@ -1,4 +1,4 @@
 # Pagina1
 paginas para clase
 
-* [dia1](dia1.html)
+* [ejer1](ejer1.html)
