@@ -6,4 +6,5 @@ paginas para clase
 * [ejer3](ejer3.html)
 * [ejer4](ejer4.html)
 * [ejer5](ejer5.html)
+* [ejer6](ejer6.html)
 
