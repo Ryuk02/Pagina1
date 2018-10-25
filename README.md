@@ -9,3 +9,4 @@ paginas para clase
 * [ejer6](ejer6.html)
 * [ejer7](ejer7.html)
 * [ejer9](ejer9.html)
+* [formulario](formulario.php)
