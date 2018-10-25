@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
 
-$nombre = $_POST['nombre'];
+$nombre = $_GET['nombre'];
 
 echo $nombre;
 
